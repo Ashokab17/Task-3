@@ -1,4 +1,4 @@
-const songs = [Add commentMore actions
+const songs = [
   { title: "Song 1", file: "song1.mp3" },
   { title: "Song 2", file: "song2.mp3" },
   { title: "Song 3", file: "song3.mp3" }
